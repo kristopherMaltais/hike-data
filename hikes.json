@@ -1,10 +1,10 @@
 [
   {
-    "id": "1",
-    "totalDistanceKilometer": "4250",
-    "totalDistanceMile": "2650",
-    "name": "Pacific Crest Trail",
-    "pathLength": "495.98",
+    "id": "1"
+    "totalDistanceKilometer": "4250"
+    "totalDistanceMile": "2650"
+    "name": "Pacific Crest Trail"
+    "pathLength": "495.98"
     "logo": "https://raw.githubusercontent.com/kristopherMaltais/hike-data/refs/heads/main/pct.png"
   }
 ]
